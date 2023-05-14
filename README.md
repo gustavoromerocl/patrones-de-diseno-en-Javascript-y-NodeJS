@@ -8,3 +8,10 @@ Udemy - Nicolas Schurmann
 - Patrón módulo
 - Patron módulo revelador
 - Patrón prototipo
+
+## Patrones funcionales
+
+- Closures
+- Programación táctica
+- Currying
+- Composición
