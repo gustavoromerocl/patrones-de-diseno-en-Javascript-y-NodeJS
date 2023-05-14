@@ -16,3 +16,10 @@ Udemy - Nicolas Schurmann
 - Programación táctica
 - Currying
 - Composición
+
+## Patrones de estructura
+
+- Mixin
+- Decorator
+- Facade
+- Adaptador
